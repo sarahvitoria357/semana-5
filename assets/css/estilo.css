@@ -1,0 +1,54 @@
+body{
+    font-size: 62.5%;
+}
+
+form{
+    width: 30em;
+    font-size: 1.6em;
+    font-weight: bold;
+
+}
+
+fieldset {
+    background-image: linear-gradient(white, violet);
+    padding:  0 0.5em;
+    border: 1px solid slateblue;
+}   
+
+div{
+     float: left;
+     margin: 1em 0;
+}
+
+label { 
+    display: block;
+    width: 5.7em;
+    margin-bottom: 1em;
+    background-color: hotpink;
+    
+}
+
+input {
+    background-color: rgb(238, 171, 223);
+    display: block;
+    width: 200px;
+    margin-bottom: 10px;
+    border: 3px dotted darkmagenta;
+
+}
+ input#enviar{
+    clear: both;
+    width: auto;
+ }
+
+ textarea {
+    display: block;
+    background-color: plum;
+ }
+
+
+legend{
+    background-color: plum;
+
+}
+
